@@ -18,11 +18,12 @@ git clone https://github.com/arwanddlearmw/geomtry-caulclater.git
 cd geomtry-caulclater
 python3 main.py
 ```
-
 If `python3` doesn't work on your system, try:
 
 ```
 python main.py
 ```
+
+the picture of program (<img width="385" height="353" alt="Capture" src="https://github.com/user-attachments/assets/3f71e539-8834-4c13-8830-55f1c99bbc41" />)
 
 Enjoy using the project! If you find any bugs or have ideas for improvements, feel free to open an issue or submit a pull request.
