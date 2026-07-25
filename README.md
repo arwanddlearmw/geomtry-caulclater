@@ -16,13 +16,17 @@ I created this project for fun and to learn more about building GUI applications
 ```
 git clone https://github.com/arwanddlearmw/geomtry-caulclater.git
 cd geomtry-caulclater
+pip3 install customtkinter
 python3 main.py
 ```
 If `python3` doesn't work on your system, try:
 
 ```
 python main.py
+pip install customtkinter
 ```
+If you r on linux and got an error on pip and u cant download the libary u almost do this
+``pip install customtkinter --break-system-packages``
 
 the picture of program (<img width="385" height="353" alt="Capture" src="https://github.com/user-attachments/assets/3f71e539-8834-4c13-8830-55f1c99bbc41" />)
 
