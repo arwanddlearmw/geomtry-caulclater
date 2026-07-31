@@ -198,6 +198,6 @@ def main():
     scroll_x.grid(row=1,column=0,sticky="ew")
     self.canva.configure(scrollregion=(-2000,-2000, 2000, 2000))
     choose_geometric(self)
-
+    self.root.mainloop()
 
 main()
